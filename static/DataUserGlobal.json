@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123456",
+      "name": "steve",
+      "pin": "200697",
+      "status": "front_office",
+      "alter_password": "false"
+    },
+    {
+      "id": "255255",
+      "name": "steve",
+      "pin": "200697",
+      "status": "front_office",
+      "alter_password": "false"
+    },
+    {
+      "id": "admin1",
+      "name": "roger",
+      "password": "roger",
+      "status": "back_office"
+    },
+    {
+      "id": "225524",
+      "pin": "317355",
+      "name": "there",
+      "status": "front_office",
+      "alter_password": "false"
+    }
+  ]
+}

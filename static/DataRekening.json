@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "rekening_id": "000025685",
+      "user_id": "123456",
+      "total_saldo": 500000,
+      "status": "block"
+    },
+    {
+      "rekening_id": "0000256256",
+      "user_id": "255255",
+      "total_saldo": 123100,
+      "status": "active"
+    },
+    {
+      "rekening_id": "21597555",
+      "user_id": "225524",
+      "total_saldo": 0,
+      "status": "active"
+    }
+  ]
+}

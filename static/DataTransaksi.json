@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "transaksi_id": "1",
+      "user_id": "123456",
+      "nominal": "5000",
+      "jenis_transaksi": "IN",
+      "created_time": ""
+    },
+    {
+      "transaksi_id": 1,
+      "user_id": "123456",
+      "nominal": 5000,
+      "jenis_transaksi": "IN",
+      "created_time": "05 November 2018"
+    },
+    {
+      "transaksi_id": 2,
+      "user_id": "123456",
+      "nominal": 5600,
+      "jenis_transaksi": "IN",
+      "created_time": "05 November 2018"
+    },
+    {
+      "transaksi_id": 3,
+      "user_id": "123456",
+      "nominal": 25000,
+      "jenis_transaksi": "OUT",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 4,
+      "user_id": "000025685",
+      "nominal": 2500,
+      "jenis_transaksi": "IN",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 5,
+      "user_id": "000025685",
+      "nominal": 52000,
+      "jenis_transaksi": "OUT",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 6,
+      "user_id": "000025685",
+      "nominal": 2500,
+      "jenis_transaksi": "OUT",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 7,
+      "user_id": "0000256256",
+      "nominal": 2500,
+      "jenis_transaksi": "IN",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 8,
+      "user_id": "000025685",
+      "nominal": 25000,
+      "jenis_transaksi": "OUT",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 9,
+      "user_id": "0000256256",
+      "nominal": 25000,
+      "jenis_transaksi": "IN",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 10,
+      "user_id": "000025685",
+      "nominal": 50000,
+      "jenis_transaksi": "IN",
+      "created_time": "06 November 2018"
+    },
+    {
+      "transaksi_id": 11,
+      "user_id": "000025685",
+      "nominal": 50000,
+      "jenis_transaksi": "IN",
+      "created_time": "06 November 2018"
+    }
+  ]
+}
